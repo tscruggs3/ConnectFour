@@ -1,5 +1,4 @@
 # ConnectFour
-## Thomas Scruggs
 
 A program to play the classic game Connect Four. Play against both another human and a computer are supported. The game has three customizable settings: selecting turn order, move animation, and multiple AI difficulty levels.
 
